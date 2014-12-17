@@ -1,0 +1,62 @@
+@media (min-width:768px) and (max-width:2000px){
+body{
+background:#C0C0C0;
+	font-family:Arial, sans-serif;
+}
+#page{
+width: 960px;
+margin: 0 auto;
+}
+.header{
+background-color: #000000;
+height: 122px;
+}
+.logo{
+float: left;
+margin: 19px 0 0 17px;
+}
+nav1 ul1{
+list-style: none;
+float: right;
+padding: 0px;
+margin-top: 14px;
+margin-right: 70px;
+font-size: 13px;
+font-family: Ebrima, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+nav1 ul1 li1{
+display: inline;
+padding-right: 15px;
+float: left;
+}
+nav1 ul1 li1 a1{
+text-decoration: none;
+color: white;
+}
+.texto{
+    float: right;
+
+}
+nav ul{
+list-style: none;
+float: right;
+padding: 0px;
+font-size: 16px;
+font-family: Century Gothic, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+nav ul li{
+display: inline;
+padding-right: 28px;
+float: left;
+}
+nav ul li a{
+text-decoration: none;
+color: white;
+}
+.menu{
+    
+}
+}
+

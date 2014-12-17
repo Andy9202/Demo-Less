@@ -1,0 +1,105 @@
+.p-r-xs {
+  padding-right: 5px;
+}
+.p-r-sm {
+  padding-right: 10px;
+}
+.p-r-md {
+  padding-right: 25px;
+}
+.pr-r-23 {
+  padding-right: 23px;
+}
+.p-r-9 {
+  padding-right: 9px;
+}
+.margin-l {
+  margin-top: 11px;
+  margin-left: 27px;
+}
+body {
+  background: #ffffff;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+#page {
+  width: 957px ;
+  height: 676px;
+  margin: 56px 468px;
+}
+#page .header {
+  background: #000000;
+  height: 114px;
+}
+#page .logo {
+  float: left;
+  margin-top: 11px;
+  margin-left: 27px;
+}
+#page nav#topMenu {
+  float: right;
+}
+#page nav#topMenu ul {
+  list-style: none;
+  float: right;
+  padding-left: 28px;
+  margin-top: 14px;
+  margin-left: 11px;
+  margin-right: 12px;
+  font-size: 13px;
+  font-family: Ebrima, "Helvetica Neue", Helvetica, sans-serif;
+}
+#page nav#topMenu ul li {
+  display: inline;
+  float: left;
+  padding-left: 51px;
+}
+#page nav#topMenu ul li a {
+  text-decoration: none;
+  color: white;
+}
+#page nav#topMenu ul li a:hover {
+  color: #000FFF;
+}
+#page nav#menu ul {
+  list-style: none;
+  float: right;
+  padding: 0px;
+  font-size: 14px;
+  margin-top: 27px;
+  margin-left: 13px;
+  margin-right: 36px;
+  font-family: Century Gothic, "Helvetica Neue", Helvetica, sans-serif;
+}
+#page nav#menu ul li {
+  display: inline;
+  padding-right: 23px;
+  float: left;
+}
+#page nav#menu ul li a {
+  text-decoration: none;
+  color: white;
+}
+#page nav#menu ul li a:hover {
+  color: #00FFFF;
+}
+#page .topRightHeader {
+  float: right;
+  width: 515px;
+  height: 57px;
+}
+#page .texto {
+  float: right;
+  margin-top: 15px;
+  margin-right: 39px;
+}
+#page .texto input {
+  height: 13px;
+  width: 112px;
+}
+#page .homeBanner {
+  margin-top: 1px;
+}
+#page .foot {
+  padding-left: 7px;
+}
